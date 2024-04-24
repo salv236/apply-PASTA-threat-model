@@ -1,1 +1,1 @@
-# apply-PASTA-threat-modl
+# apply-PASTA-threat-model
