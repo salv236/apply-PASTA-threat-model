@@ -84,8 +84,6 @@ Open the PASTA attack tree resource. Review the diagram and consider how threat 
 
 Note: Applications like this normally have large, complex attack trees with many branches.
 
-## Step 7 - Identify nw scurtiy controls that can reduce risks.
+## Step 7 - Identify nw securtiy controls that can reduce risks.
 
-PASTA threat modeling is commonly used to reduce the likelihood of security risks. In Stage VII, the final goal is to implement defenses and safeguards that mitigate threats.
-
-In Stage 7 of the PASTA worksheet, list 4 security controls that you have learned about that can reduce the chances of a security incident, like a data breach.
+PASTA threat modeling is commonly used to reduce the likelihood of security risks. In Stage , the final goal is to implement defenses and safeguards that mitigate threats.
